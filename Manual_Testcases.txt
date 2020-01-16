@@ -1,0 +1,20 @@
+Manual Test cases for Adding .
+1.	Verify Add Images link is visible under file section.
+2.	Verify Drag and Drop section is visible or not.
+3.	Verify that choose file window or screen must be open after click on the Drag and Drop section
+4.	Verify that, is there choose file window or screen is displaying any particular format file or all files.
+5.	Verify that select the desired file of specific file format through the choose file window or screen by clicking on it.
+6.	Verify that Drag and drop functionality for uploading the files.
+7.	Verify that multiple files can be uploaded simultaneously or not.
+8.	Verify what all image file format is supported.
+9.	Verify that multiple files can be uploaded one by one.
+10.	Verify that Cancel uploading in middle of uploading multiple files simultaneously.
+11.	Verify that after uplaoding image file Continue button is visible or not.
+12.	Verify Continue Button is visible or not, when we not upload any image file. 
+13. Verify after clicking on Continue button, it's navigating to Crop section or not.
+14.	Verify no.of cropping can be done.
+15.	Verify if Crop Image button is visible or not.
+16.  Verify Upate File button after Cropping file images. 
+17.  Verify whether Uploaded images can be deleted or not.
+18. Verify Delete Icon is visible or not.
+19. Verify after click on delete icon Delete button is visible.
